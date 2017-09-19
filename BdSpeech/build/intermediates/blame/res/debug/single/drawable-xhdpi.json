@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\SomeDemos\\SomeDemos\\BdSpeech\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_mic.png",
+        "source": "E:\\SomeDemos\\SomeDemos\\BdSpeech\\src\\main\\res\\drawable-xhdpi\\bd_asr_mic.png"
+    },
+    {
+        "merged": "E:\\SomeDemos\\SomeDemos\\BdSpeech\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_wave.png",
+        "source": "E:\\SomeDemos\\SomeDemos\\BdSpeech\\src\\main\\res\\drawable-xhdpi\\bd_asr_wave.png"
+    },
+    {
+        "merged": "E:\\SomeDemos\\SomeDemos\\BdSpeech\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\screen.png",
+        "source": "E:\\SomeDemos\\SomeDemos\\BdSpeech\\src\\main\\res\\drawable-xhdpi\\screen.png"
+    },
+    {
+        "merged": "E:\\SomeDemos\\SomeDemos\\BdSpeech\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\SomeDemos\\SomeDemos\\BdSpeech\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
